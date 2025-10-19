@@ -35,7 +35,7 @@ Installation & Usage:
 
 Clone the repository:
 
-git clone https://github.com/your-username/academic-assistant-bot.git
+git clone 
 
 
 Install dependencies:
